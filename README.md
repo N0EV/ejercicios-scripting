@@ -1,4 +1,4 @@
-# Ejercicios scripting clase
+# Ejercicios scripting
 
 > [!WARNING]
 > Este es un repositorio echo en clase por lo que puede contener errores.
