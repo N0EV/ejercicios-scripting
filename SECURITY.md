@@ -13,7 +13,7 @@ currently being supported with security updates.
 | < 4.0   | :x:                |
 -->
 # Reporting a Vulnerability 🪲
-Si encuentra alguna vulnerabilidad o fallo en el codigo puede hacerme una "pull request" indicando el fallo.
+Si encuentra alguna vulnerabilidad o fallo en el codigo puedes hacer una publicacion en "Issues" indicando el fallo.
 <!--
 Use this section to tell people how to report a vulnerability.
 
