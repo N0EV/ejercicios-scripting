@@ -7,7 +7,7 @@ Este repositorio es una recopilación de codigo de scripting, tanto para linux c
 
 ## Estructura del repositorio
 
-```py
+```c#
 /ejercicios-scripting
 ├── README.md
 ├── LICENSE
