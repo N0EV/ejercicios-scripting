@@ -7,7 +7,7 @@
 
 #!/bin/bash
 # Aqui estamos viendo que nos haya pasado dos parametros
-if [[ $# -ne 1 ]];then
+if [[ $# -ne 1 ]]; then
 	# por que es el nombre del fichero y algo mas
 	echo "Uso: bash $0 <nombre de archivo de texto>"
 	# Si no se usa bien me salgo del script
