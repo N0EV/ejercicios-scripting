@@ -1,5 +1,8 @@
 # Ejercicios scripting
 
+>[!WARNING]
+>Este repositorio seguramente se elimine por lo que se movera todo a un repositorio llamado apuntes-smr
+
 > [!WARNING]
 > Este es un repositorio echo en clase por lo que puede contener errores.
 
